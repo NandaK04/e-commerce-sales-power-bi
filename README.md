@@ -30,7 +30,7 @@ The objective of this project is to transform raw sales data into an interactive
 
  📷 Dashboard Preview:
 
-![Executive Sales & Profit Dashboard](dashboard.png)
+![Executive Sales & Profit Dashboard](Dashboard.png)
 
  📁 Project Files
 
